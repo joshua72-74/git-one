@@ -32,6 +32,6 @@ public class Exercise1_4 {
         else{
             System.out.println(result);
         }
-
+System.out.println("GitHub");
     }
 }
